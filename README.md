@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Shivam 👋<br><br>🚀 **Data Engineer | Python Developer | Generative AI Enthusiast | Freelancer**<br><br>I'm a Data Engineer passionate about building scalable data solutions, automation workflows, AI-powered applications, and business tools that solve real-world problems.<br><br>💻 **Technical Skills**<br>- **Languages:** Python, SQL<br>- **Data Engineering:** PySpark, Apache Spark, Databricks, Airflow, ETL/ELT Pipelines<br>- **Cloud:** AWS, Azure<br>- **Databases:** MySQL, PostgreSQL, MongoDB<br>- **Search & AI:** Elasticsearch, OpenSearch, Vector Databases, RAG, LangChain, LLMs, AI Agents<br>- **Development:** Flask, FastAPI, Streamlit, REST APIs, Docker<br><br>### 🛠️ Freelance Projects & Practical Experience<br><br>Along with my professional experience, I've worked on freelance projects focused on business automation and application development.<br><br>- 🛒 **BETTR Store:** Built and customized a Shopify e-commerce website.<br>- 📦 **Inventory Management Tool:** Developed a Python and Streamlit-based inventory entry and management application with SQLite/MySQL integration, SKU generation, product management, and bulk uploads.<br>- 🔔 **Notification Automation:** Integrated Shopify order notifications with Google Chat and worked on WhatsApp Business API automation.<br>- ☁️ **Cloud Integration:** Worked with AWS services, including S3 for product image storage and cloud database connectivity.<br>- 🔄 **Business Automation:** Developed solutions to streamline inventory workflows, product management, and e-commerce operations.<br><br>### 🤖 Currently Exploring<br>- Generative AI and LLM Applications<br>- Retrieval-Augmented Generation (RAG)<br>- LangChain and LangGraph<br>- AI Agents and Agentic Workflows<br>- Vector Search and Semantic Search<br><br>🌱 I believe in continuous learning, building practical solutions, and turning complex problems into simple, scalable applications.<br><br>📫 **Let's connect and build something impactful!**<br><br>⭐ *Turning Data into Insights, Ideas into Products, and Problems into Solutions.*
 
-<!--
-**thechoudhary/thechoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamchoudhary01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-punia) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=thechoudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=thechoudhary&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thechoudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=thechoudhary&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
