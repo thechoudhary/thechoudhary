@@ -1,5 +1,7 @@
-# 💫 About Me:
-# Hi, I'm Shivam 👋<br><br>🚀 **Data Engineer | Python Developer | Generative AI Enthusiast | Freelancer**<br><br>Passionate about building scalable data pipelines, AI-powered applications, business tools, and automation solutions.<br><br>💻 **Tech Stack**<br>- **Languages:** Python, SQL<br>- **Data Engineering:** PySpark, Spark, Databricks, Airflow<br>- **Cloud:** AWS, Azure<br>- **Databases:** MySQL, PostgreSQL, MongoDB<br>- **AI & Search:** RAG, LangChain, LLMs, AI Agents, Elasticsearch<br>- **Development:** Flask, FastAPI, Streamlit, REST APIs<br><br>🛠️ **Freelance Projects**<br>- 🛒 Built and customized **BETTR Store Shopify website**.<br>- 📦 Developed a Python-based **Inventory Management Tool**.<br>- 🔔 Automated Shopify order notifications using **Google Chat and WhatsApp integrations**.<br>- ☁️ Implemented AWS S3 storage and cloud database integrations.<br><br>🤖 **Currently Exploring:** Generative AI, RAG, LangGraph, AI Agents & Vector Databases.<br><br>🌱 Always learning, building, and solving real-world problems through technology.<br><br>⭐ *Turning Data into Insights and Ideas into Solutions!*
+👋 Hi, I'm Shivam!<br><br>
+🚀 Data Engineer passionate about building scalable data pipelines, data-driven applications, and AI-powered solutions.<br><br>
+🔧 I enjoy solving real-world problems through automation, data engineering, and innovative technologies.<br><br>
+🌱 Always learning, building, and exploring new technologies.
 
 
 ## 🌐 Socials:
